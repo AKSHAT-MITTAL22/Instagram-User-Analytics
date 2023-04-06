@@ -2,6 +2,7 @@
 This project helps to analyse the raw data/metadata to create useful insights. Various database management tools can be used to extract useful insights and even visualise them. This enables a way to increase efficiency of a platform.
 
 We are required to provide a detailed report answering the questions below :
+
 A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following:
 
   1. Rewarding Most Loyal Users: People who have been using the platform for the longest time.
@@ -14,6 +15,7 @@ A) Marketing: The marketing team wants to launch some campaigns, and they need y
      Task: Identify and suggest the top 5 most commonly used hashtags on the platform
   5. Launch AD Campaign: The team wants to know, which day would be the best day to launch ADs.
      Task: What day of the week do most users register on? Provide insights on when to schedule an ad campaign
+     
 B) Investor Metrics: Our investors want to know if Instagram is performing well and is not becoming redundant like Facebook, they want to assess the app on the following                      grounds:
 
    1. User Engagement: Are users still as active and post on Instagram or they are making fewer posts
